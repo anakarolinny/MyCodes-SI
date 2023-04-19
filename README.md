@@ -1,5 +1,5 @@
 # MyCodes-SI
-Códigos feitos em sala de aula como atividade avaliativa da matéria de Projeto de Algoritmos. <br> Cada atividade consiste na resolução de exercícios diferentes, os quais estão apresentados abaixo:
+Códigos feitos em sala de aula como atividade avaliativa da matéria de Projeto de Algoritmos. <br>Os códigos foram feitos em Linguagem C.<br> Cada atividade consiste na resolução de exercícios diferentes, os quais estão apresentados abaixo:
 
 1 - Faça um programa que leia dois numeros inteiros e imprima a soma.<br>
 2 - Escreva um programa que calcule e imprima a área de um círculo de raio r.<br>
